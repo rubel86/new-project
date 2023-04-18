@@ -10,3 +10,7 @@ p{
     font: bold;
     background-color: black;
 }
+img{
+    width: 50%;
+    height: auto;
+}
